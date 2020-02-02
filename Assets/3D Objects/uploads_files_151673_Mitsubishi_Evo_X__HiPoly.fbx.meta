@@ -1,0 +1,918 @@
+fileFormatVersion: 2
+guid: 2fd019e767aaeb74a9c31900b12526a5
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Brakes_1
+    100002: Brakes_10
+    100004: Brakes_11
+    100006: Brakes_12
+    100008: Brakes_13
+    100010: Brakes_14
+    100012: Brakes_15
+    100014: Brakes_16
+    100016: Brakes_17
+    100018: Brakes_18
+    100020: Brakes_19
+    100022: Brakes_2
+    100024: Brakes_20
+    100026: Brakes_3
+    100028: Brakes_4
+    100030: Brakes_5
+    100032: Brakes_6
+    100034: Brakes_7
+    100036: Brakes_8
+    100038: Brakes_9
+    100040: Car
+    100042: Floor
+    100044: Floor1
+    100046: Floor2
+    100048: Floor3
+    100050: Floor4
+    100052: Floor5
+    100054: Front_End
+    100056: Front_End1
+    100058: Front_End10
+    100060: Front_End11
+    100062: Front_End12
+    100064: Front_End13
+    100066: Front_End14
+    100068: Front_End15
+    100070: Front_End16
+    100072: Front_End17
+    100074: Front_End2
+    100076: Front_End3
+    100078: Front_End4
+    100080: Front_End5
+    100082: Front_End6
+    100084: Front_End7
+    100086: Front_End8
+    100088: Front_End9
+    100090: Front_Left_Door
+    100092: Front_Left_Wheel
+    100094: Front_Right_Door
+    100096: Front_RightWheel
+    100098: Glass
+    100100: Glass1
+    100102: Glass2
+    100104: Glass3
+    100106: Glass4
+    100108: Glass5
+    100110: Glass6
+    100112: Glass7
+    100114: Glass8
+    100116: Glass9
+    100118: HeadLights_Interior
+    100120: HeadLights_Interior1
+    100122: HeadLights_Interior2
+    100124: HeadLights_Interior3
+    100126: HeadLights_Interior4
+    100128: HeadLights_Interior5
+    100130: HeadLights_Interior6
+    100132: Interior
+    100134: Interior1
+    100136: Interior10
+    100138: Interior11
+    100140: Interior12
+    100142: Interior13
+    100144: Interior14
+    100146: Interior15
+    100148: Interior16
+    100150: Interior17
+    100152: Interior18
+    100154: Interior19
+    100156: Interior2
+    100158: Interior20
+    100160: Interior21
+    100162: Interior3
+    100164: Interior4
+    100166: Interior5
+    100168: Interior6
+    100170: Interior7
+    100172: Interior8
+    100174: Interior9
+    100176: Left_Rear_Door
+    100178: MovingParts_Doors_Wheels
+    100180: pasted__polySurface42
+    100182: pasted__polySurface42 1
+    100184: pasted__polySurface42 2
+    100186: pasted__polySurface42 3
+    100188: pasted__polySurface43
+    100190: pasted__polySurface43 1
+    100192: pasted__polySurface43 2
+    100194: pasted__polySurface43 3
+    100196: polySurface24
+    100198: polySurface26
+    100200: polySurface27
+    100202: polySurface28
+    100204: polySurface29
+    100206: polySurface29 1
+    100208: polySurface31
+    100210: polySurface31 1
+    100212: polySurface32
+    100214: polySurface32 1
+    100216: polySurface33
+    100218: polySurface33 1
+    100220: polySurface34
+    100222: polySurface34 1
+    100224: polySurface36
+    100226: polySurface36 1
+    100228: polySurface37
+    100230: polySurface37 1
+    100232: polySurface38
+    100234: polySurface38 1
+    100236: polySurface40
+    100238: polySurface40 1
+    100240: polySurface45
+    100242: polySurface45 1
+    100244: polySurface47
+    100246: polySurface47 1
+    100248: polySurface49
+    100250: polySurface49 1
+    100252: polySurface52
+    100254: polySurface52 1
+    100256: polySurface53
+    100258: polySurface53 1
+    100260: polySurface55
+    100262: polySurface55 1
+    100264: polySurface56
+    100266: polySurface56 1
+    100268: polySurface57
+    100270: polySurface57 1
+    100272: polySurface58
+    100274: polySurface58 1
+    100276: polySurface60
+    100278: polySurface60 1
+    100280: polySurface62
+    100282: polySurface62 1
+    100284: Rear_End
+    100286: Rear_End1
+    100288: Rear_End10
+    100290: Rear_End11
+    100292: Rear_End2
+    100294: Rear_End3
+    100296: Rear_End4
+    100298: Rear_End5
+    100300: Rear_End6
+    100302: Rear_End7
+    100304: Rear_End8
+    100306: Rear_End9
+    100308: Rear_Left_wheel
+    100310: Rear_Right_Door
+    100312: Rear_RightWheel
+    100314: revolvedSurface3
+    100316: revolvedSurface4
+    100318: revolvedSurface5
+    100320: revolvedSurface6
+    100322: Roof
+    100324: Roof1
+    100326: Roof2
+    100328: Roof3
+    100330: Roof4
+    100332: Tire
+    100334: Tire1
+    100336: Tire2
+    100338: Tire3
+    100340: Tire_1
+    100342: Tire_2
+    100344: Tire_3
+    100346: Tire_4
+    100348: Tires_HighPoly_SUBDIVISIONS___
+    100350: //RootNode
+    400000: Brakes_1
+    400002: Brakes_10
+    400004: Brakes_11
+    400006: Brakes_12
+    400008: Brakes_13
+    400010: Brakes_14
+    400012: Brakes_15
+    400014: Brakes_16
+    400016: Brakes_17
+    400018: Brakes_18
+    400020: Brakes_19
+    400022: Brakes_2
+    400024: Brakes_20
+    400026: Brakes_3
+    400028: Brakes_4
+    400030: Brakes_5
+    400032: Brakes_6
+    400034: Brakes_7
+    400036: Brakes_8
+    400038: Brakes_9
+    400040: Car
+    400042: Floor
+    400044: Floor1
+    400046: Floor2
+    400048: Floor3
+    400050: Floor4
+    400052: Floor5
+    400054: Front_End
+    400056: Front_End1
+    400058: Front_End10
+    400060: Front_End11
+    400062: Front_End12
+    400064: Front_End13
+    400066: Front_End14
+    400068: Front_End15
+    400070: Front_End16
+    400072: Front_End17
+    400074: Front_End2
+    400076: Front_End3
+    400078: Front_End4
+    400080: Front_End5
+    400082: Front_End6
+    400084: Front_End7
+    400086: Front_End8
+    400088: Front_End9
+    400090: Front_Left_Door
+    400092: Front_Left_Wheel
+    400094: Front_Right_Door
+    400096: Front_RightWheel
+    400098: Glass
+    400100: Glass1
+    400102: Glass2
+    400104: Glass3
+    400106: Glass4
+    400108: Glass5
+    400110: Glass6
+    400112: Glass7
+    400114: Glass8
+    400116: Glass9
+    400118: HeadLights_Interior
+    400120: HeadLights_Interior1
+    400122: HeadLights_Interior2
+    400124: HeadLights_Interior3
+    400126: HeadLights_Interior4
+    400128: HeadLights_Interior5
+    400130: HeadLights_Interior6
+    400132: Interior
+    400134: Interior1
+    400136: Interior10
+    400138: Interior11
+    400140: Interior12
+    400142: Interior13
+    400144: Interior14
+    400146: Interior15
+    400148: Interior16
+    400150: Interior17
+    400152: Interior18
+    400154: Interior19
+    400156: Interior2
+    400158: Interior20
+    400160: Interior21
+    400162: Interior3
+    400164: Interior4
+    400166: Interior5
+    400168: Interior6
+    400170: Interior7
+    400172: Interior8
+    400174: Interior9
+    400176: Left_Rear_Door
+    400178: MovingParts_Doors_Wheels
+    400180: pasted__polySurface42
+    400182: pasted__polySurface42 1
+    400184: pasted__polySurface42 2
+    400186: pasted__polySurface42 3
+    400188: pasted__polySurface43
+    400190: pasted__polySurface43 1
+    400192: pasted__polySurface43 2
+    400194: pasted__polySurface43 3
+    400196: polySurface24
+    400198: polySurface26
+    400200: polySurface27
+    400202: polySurface28
+    400204: polySurface29
+    400206: polySurface29 1
+    400208: polySurface31
+    400210: polySurface31 1
+    400212: polySurface32
+    400214: polySurface32 1
+    400216: polySurface33
+    400218: polySurface33 1
+    400220: polySurface34
+    400222: polySurface34 1
+    400224: polySurface36
+    400226: polySurface36 1
+    400228: polySurface37
+    400230: polySurface37 1
+    400232: polySurface38
+    400234: polySurface38 1
+    400236: polySurface40
+    400238: polySurface40 1
+    400240: polySurface45
+    400242: polySurface45 1
+    400244: polySurface47
+    400246: polySurface47 1
+    400248: polySurface49
+    400250: polySurface49 1
+    400252: polySurface52
+    400254: polySurface52 1
+    400256: polySurface53
+    400258: polySurface53 1
+    400260: polySurface55
+    400262: polySurface55 1
+    400264: polySurface56
+    400266: polySurface56 1
+    400268: polySurface57
+    400270: polySurface57 1
+    400272: polySurface58
+    400274: polySurface58 1
+    400276: polySurface60
+    400278: polySurface60 1
+    400280: polySurface62
+    400282: polySurface62 1
+    400284: Rear_End
+    400286: Rear_End1
+    400288: Rear_End10
+    400290: Rear_End11
+    400292: Rear_End2
+    400294: Rear_End3
+    400296: Rear_End4
+    400298: Rear_End5
+    400300: Rear_End6
+    400302: Rear_End7
+    400304: Rear_End8
+    400306: Rear_End9
+    400308: Rear_Left_wheel
+    400310: Rear_Right_Door
+    400312: Rear_RightWheel
+    400314: revolvedSurface3
+    400316: revolvedSurface4
+    400318: revolvedSurface5
+    400320: revolvedSurface6
+    400322: Roof
+    400324: Roof1
+    400326: Roof2
+    400328: Roof3
+    400330: Roof4
+    400332: Tire
+    400334: Tire1
+    400336: Tire2
+    400338: Tire3
+    400340: Tire_1
+    400342: Tire_2
+    400344: Tire_3
+    400346: Tire_4
+    400348: Tires_HighPoly_SUBDIVISIONS___
+    400350: //RootNode
+    2100000: blinn1
+    2100002: Windows
+    2100004: BackWindow
+    2100006: unwrapChekcerShader
+    2300000: Brakes_1
+    2300002: Brakes_10
+    2300004: Brakes_11
+    2300006: Brakes_12
+    2300008: Brakes_13
+    2300010: Brakes_14
+    2300012: Brakes_15
+    2300014: Brakes_16
+    2300016: Brakes_17
+    2300018: Brakes_18
+    2300020: Brakes_19
+    2300022: Brakes_2
+    2300024: Brakes_20
+    2300026: Brakes_3
+    2300028: Brakes_4
+    2300030: Brakes_5
+    2300032: Brakes_6
+    2300034: Brakes_7
+    2300036: Brakes_8
+    2300038: Brakes_9
+    2300040: Floor1
+    2300042: Floor2
+    2300044: Floor3
+    2300046: Floor4
+    2300048: Floor5
+    2300050: Front_End1
+    2300052: Front_End10
+    2300054: Front_End11
+    2300056: Front_End12
+    2300058: Front_End13
+    2300060: Front_End14
+    2300062: Front_End15
+    2300064: Front_End16
+    2300066: Front_End17
+    2300068: Front_End2
+    2300070: Front_End3
+    2300072: Front_End4
+    2300074: Front_End5
+    2300076: Front_End6
+    2300078: Front_End7
+    2300080: Front_End8
+    2300082: Front_End9
+    2300084: Glass1
+    2300086: Glass2
+    2300088: Glass3
+    2300090: Glass4
+    2300092: Glass5
+    2300094: Glass6
+    2300096: Glass7
+    2300098: Glass8
+    2300100: Glass9
+    2300102: HeadLights_Interior1
+    2300104: HeadLights_Interior2
+    2300106: HeadLights_Interior3
+    2300108: HeadLights_Interior4
+    2300110: HeadLights_Interior5
+    2300112: HeadLights_Interior6
+    2300114: Interior1
+    2300116: Interior10
+    2300118: Interior11
+    2300120: Interior12
+    2300122: Interior13
+    2300124: Interior14
+    2300126: Interior15
+    2300128: Interior16
+    2300130: Interior17
+    2300132: Interior18
+    2300134: Interior19
+    2300136: Interior2
+    2300138: Interior20
+    2300140: Interior21
+    2300142: Interior3
+    2300144: Interior4
+    2300146: Interior5
+    2300148: Interior6
+    2300150: Interior7
+    2300152: Interior8
+    2300154: Interior9
+    2300156: pasted__polySurface42
+    2300158: pasted__polySurface42 1
+    2300160: pasted__polySurface42 2
+    2300162: pasted__polySurface42 3
+    2300164: pasted__polySurface43
+    2300166: pasted__polySurface43 1
+    2300168: pasted__polySurface43 2
+    2300170: pasted__polySurface43 3
+    2300172: polySurface24
+    2300174: polySurface26
+    2300176: polySurface27
+    2300178: polySurface28
+    2300180: polySurface29
+    2300182: polySurface29 1
+    2300184: polySurface31
+    2300186: polySurface31 1
+    2300188: polySurface32
+    2300190: polySurface32 1
+    2300192: polySurface33
+    2300194: polySurface33 1
+    2300196: polySurface34
+    2300198: polySurface34 1
+    2300200: polySurface36
+    2300202: polySurface36 1
+    2300204: polySurface37
+    2300206: polySurface37 1
+    2300208: polySurface38
+    2300210: polySurface38 1
+    2300212: polySurface40
+    2300214: polySurface40 1
+    2300216: polySurface45
+    2300218: polySurface45 1
+    2300220: polySurface47
+    2300222: polySurface47 1
+    2300224: polySurface49
+    2300226: polySurface49 1
+    2300228: polySurface52
+    2300230: polySurface52 1
+    2300232: polySurface53
+    2300234: polySurface53 1
+    2300236: polySurface55
+    2300238: polySurface55 1
+    2300240: polySurface56
+    2300242: polySurface56 1
+    2300244: polySurface57
+    2300246: polySurface57 1
+    2300248: polySurface58
+    2300250: polySurface58 1
+    2300252: polySurface60
+    2300254: polySurface60 1
+    2300256: polySurface62
+    2300258: polySurface62 1
+    2300260: Rear_End1
+    2300262: Rear_End10
+    2300264: Rear_End11
+    2300266: Rear_End2
+    2300268: Rear_End3
+    2300270: Rear_End4
+    2300272: Rear_End5
+    2300274: Rear_End6
+    2300276: Rear_End7
+    2300278: Rear_End8
+    2300280: Rear_End9
+    2300282: revolvedSurface3
+    2300284: revolvedSurface4
+    2300286: revolvedSurface5
+    2300288: revolvedSurface6
+    2300290: Roof1
+    2300292: Roof2
+    2300294: Roof3
+    2300296: Roof4
+    2300298: Tire
+    2300300: Tire1
+    2300302: Tire2
+    2300304: Tire3
+    2300306: Tire_1
+    2300308: Tire_2
+    2300310: Tire_3
+    2300312: Tire_4
+    3300000: Brakes_1
+    3300002: Brakes_10
+    3300004: Brakes_11
+    3300006: Brakes_12
+    3300008: Brakes_13
+    3300010: Brakes_14
+    3300012: Brakes_15
+    3300014: Brakes_16
+    3300016: Brakes_17
+    3300018: Brakes_18
+    3300020: Brakes_19
+    3300022: Brakes_2
+    3300024: Brakes_20
+    3300026: Brakes_3
+    3300028: Brakes_4
+    3300030: Brakes_5
+    3300032: Brakes_6
+    3300034: Brakes_7
+    3300036: Brakes_8
+    3300038: Brakes_9
+    3300040: Floor1
+    3300042: Floor2
+    3300044: Floor3
+    3300046: Floor4
+    3300048: Floor5
+    3300050: Front_End1
+    3300052: Front_End10
+    3300054: Front_End11
+    3300056: Front_End12
+    3300058: Front_End13
+    3300060: Front_End14
+    3300062: Front_End15
+    3300064: Front_End16
+    3300066: Front_End17
+    3300068: Front_End2
+    3300070: Front_End3
+    3300072: Front_End4
+    3300074: Front_End5
+    3300076: Front_End6
+    3300078: Front_End7
+    3300080: Front_End8
+    3300082: Front_End9
+    3300084: Glass1
+    3300086: Glass2
+    3300088: Glass3
+    3300090: Glass4
+    3300092: Glass5
+    3300094: Glass6
+    3300096: Glass7
+    3300098: Glass8
+    3300100: Glass9
+    3300102: HeadLights_Interior1
+    3300104: HeadLights_Interior2
+    3300106: HeadLights_Interior3
+    3300108: HeadLights_Interior4
+    3300110: HeadLights_Interior5
+    3300112: HeadLights_Interior6
+    3300114: Interior1
+    3300116: Interior10
+    3300118: Interior11
+    3300120: Interior12
+    3300122: Interior13
+    3300124: Interior14
+    3300126: Interior15
+    3300128: Interior16
+    3300130: Interior17
+    3300132: Interior18
+    3300134: Interior19
+    3300136: Interior2
+    3300138: Interior20
+    3300140: Interior21
+    3300142: Interior3
+    3300144: Interior4
+    3300146: Interior5
+    3300148: Interior6
+    3300150: Interior7
+    3300152: Interior8
+    3300154: Interior9
+    3300156: pasted__polySurface42
+    3300158: pasted__polySurface42 1
+    3300160: pasted__polySurface42 2
+    3300162: pasted__polySurface42 3
+    3300164: pasted__polySurface43
+    3300166: pasted__polySurface43 1
+    3300168: pasted__polySurface43 2
+    3300170: pasted__polySurface43 3
+    3300172: polySurface24
+    3300174: polySurface26
+    3300176: polySurface27
+    3300178: polySurface28
+    3300180: polySurface29
+    3300182: polySurface29 1
+    3300184: polySurface31
+    3300186: polySurface31 1
+    3300188: polySurface32
+    3300190: polySurface32 1
+    3300192: polySurface33
+    3300194: polySurface33 1
+    3300196: polySurface34
+    3300198: polySurface34 1
+    3300200: polySurface36
+    3300202: polySurface36 1
+    3300204: polySurface37
+    3300206: polySurface37 1
+    3300208: polySurface38
+    3300210: polySurface38 1
+    3300212: polySurface40
+    3300214: polySurface40 1
+    3300216: polySurface45
+    3300218: polySurface45 1
+    3300220: polySurface47
+    3300222: polySurface47 1
+    3300224: polySurface49
+    3300226: polySurface49 1
+    3300228: polySurface52
+    3300230: polySurface52 1
+    3300232: polySurface53
+    3300234: polySurface53 1
+    3300236: polySurface55
+    3300238: polySurface55 1
+    3300240: polySurface56
+    3300242: polySurface56 1
+    3300244: polySurface57
+    3300246: polySurface57 1
+    3300248: polySurface58
+    3300250: polySurface58 1
+    3300252: polySurface60
+    3300254: polySurface60 1
+    3300256: polySurface62
+    3300258: polySurface62 1
+    3300260: Rear_End1
+    3300262: Rear_End10
+    3300264: Rear_End11
+    3300266: Rear_End2
+    3300268: Rear_End3
+    3300270: Rear_End4
+    3300272: Rear_End5
+    3300274: Rear_End6
+    3300276: Rear_End7
+    3300278: Rear_End8
+    3300280: Rear_End9
+    3300282: revolvedSurface3
+    3300284: revolvedSurface4
+    3300286: revolvedSurface5
+    3300288: revolvedSurface6
+    3300290: Roof1
+    3300292: Roof2
+    3300294: Roof3
+    3300296: Roof4
+    3300298: Tire
+    3300300: Tire1
+    3300302: Tire2
+    3300304: Tire3
+    3300306: Tire_1
+    3300308: Tire_2
+    3300310: Tire_3
+    3300312: Tire_4
+    4300000: Tire_3
+    4300002: Tire_2
+    4300004: Tire_1
+    4300006: Tire_4
+    4300008: Glass1
+    4300010: Glass2
+    4300012: Glass3
+    4300014: Glass4
+    4300016: Glass5
+    4300018: Floor1
+    4300020: Floor2
+    4300022: Floor3
+    4300024: Floor4
+    4300026: Floor5
+    4300028: Roof1
+    4300030: Roof2
+    4300032: Roof3
+    4300034: Roof4
+    4300036: Interior1
+    4300038: Interior2
+    4300040: Interior3
+    4300042: Interior4
+    4300044: Interior5
+    4300046: Interior6
+    4300048: Interior7
+    4300050: Interior8
+    4300052: Interior9
+    4300054: Interior10
+    4300056: Interior11
+    4300058: Interior12
+    4300060: Interior13
+    4300062: Interior14
+    4300064: Interior15
+    4300066: Interior16
+    4300068: Interior17
+    4300070: Interior18
+    4300072: Interior19
+    4300074: Interior20
+    4300076: Interior21
+    4300078: HeadLights_Interior1
+    4300080: HeadLights_Interior2
+    4300082: HeadLights_Interior3
+    4300084: HeadLights_Interior4
+    4300086: HeadLights_Interior5
+    4300088: HeadLights_Interior6
+    4300090: Front_End1
+    4300092: Front_End2
+    4300094: Front_End3
+    4300096: Front_End4
+    4300098: Front_End5
+    4300100: Front_End6
+    4300102: Front_End7
+    4300104: Front_End8
+    4300106: Front_End9
+    4300108: Front_End10
+    4300110: Front_End11
+    4300112: Front_End12
+    4300114: Front_End13
+    4300116: Front_End14
+    4300118: Front_End15
+    4300120: Front_End16
+    4300122: Front_End17
+    4300124: Rear_End1
+    4300126: Rear_End2
+    4300128: Rear_End3
+    4300130: Rear_End4
+    4300132: Rear_End5
+    4300134: Rear_End6
+    4300136: Rear_End7
+    4300138: Rear_End8
+    4300140: Rear_End9
+    4300142: Rear_End10
+    4300144: Rear_End11
+    4300146: polySurface29
+    4300148: polySurface34
+    4300150: polySurface33
+    4300152: polySurface32
+    4300154: polySurface31
+    4300156: polySurface38
+    4300158: polySurface36
+    4300160: polySurface40
+    4300162: polySurface55
+    4300164: polySurface45
+    4300166: polySurface47
+    4300168: polySurface49
+    4300170: polySurface53
+    4300172: polySurface52
+    4300174: Glass6
+    4300176: polySurface29
+    4300178: polySurface34
+    4300180: polySurface33
+    4300182: polySurface32
+    4300184: polySurface31
+    4300186: polySurface38
+    4300188: polySurface36
+    4300190: polySurface40
+    4300192: polySurface55
+    4300194: polySurface45
+    4300196: polySurface47
+    4300198: polySurface49
+    4300200: polySurface53
+    4300202: polySurface52
+    4300204: Glass7
+    4300206: polySurface58
+    4300208: polySurface56
+    4300210: polySurface57
+    4300212: polySurface60
+    4300214: polySurface62
+    4300216: polySurface37
+    4300218: Glass8
+    4300220: polySurface58
+    4300222: polySurface56
+    4300224: polySurface57
+    4300226: polySurface60
+    4300228: polySurface62
+    4300230: polySurface37
+    4300232: Glass9
+    4300234: Brakes_1
+    4300236: Brakes_2
+    4300238: Brakes_3
+    4300240: Brakes_4
+    4300242: Brakes_5
+    4300244: pasted__polySurface43
+    4300246: pasted__polySurface42
+    4300248: polySurface28
+    4300250: Tire1
+    4300252: revolvedSurface5
+    4300254: Brakes_6
+    4300256: Brakes_7
+    4300258: Brakes_8
+    4300260: Brakes_9
+    4300262: Brakes_10
+    4300264: pasted__polySurface43
+    4300266: pasted__polySurface42
+    4300268: polySurface26
+    4300270: Tire2
+    4300272: revolvedSurface3
+    4300274: Brakes_11
+    4300276: Brakes_12
+    4300278: Brakes_13
+    4300280: Brakes_14
+    4300282: Brakes_15
+    4300284: pasted__polySurface43
+    4300286: pasted__polySurface42
+    4300288: polySurface24
+    4300290: Tire3
+    4300292: revolvedSurface4
+    4300294: Brakes_16
+    4300296: Brakes_17
+    4300298: Brakes_18
+    4300300: Brakes_19
+    4300302: Brakes_20
+    4300304: pasted__polySurface43
+    4300306: pasted__polySurface42
+    4300308: polySurface27
+    4300310: Tire
+    4300312: revolvedSurface6
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
