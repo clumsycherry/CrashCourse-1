@@ -9,9 +9,7 @@ public class Scene12Transition : MonoBehaviour
     {
         if (other.gameObject.name == "Truck")
         {
-             SceneManager.LoadScene(0);
+            SceneManager.LoadScene(0);    
         }
-
-       
     }
 }

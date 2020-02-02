@@ -10,7 +10,7 @@ public class DelaySound2 : MonoBehaviour
     void Start() 
     {
         myAudio = GetComponent<AudioSource>();
-        //Invoke("playAudio", 1.0f);
+        Invoke("playAudio", 1.0f);
     }
 
     void playAudio()

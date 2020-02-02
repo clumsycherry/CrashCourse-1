@@ -15,7 +15,7 @@ EditorBuildSettings:
     path: Assets/Scenes/Crash_Switch.unity
     guid: 00c27bb9430bae148834c2b6fea69fb7
   - enabled: 1
-    path: Assets/Scenes/Crashed.unity
+    path: Assets/Scenes/Prev_Version/Crashed.unity
     guid: 4e8c94a9762d7384dba2e75dd26d6412
   - enabled: 1
     path: Assets/Scenes/Survived.unity

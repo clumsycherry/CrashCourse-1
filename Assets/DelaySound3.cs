@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class DelaySound : MonoBehaviour
+public class DelaySound3 : MonoBehaviour
 {
     AudioSource myAudio;
 
@@ -10,14 +10,11 @@ public class DelaySound : MonoBehaviour
     void Start() 
     {
         myAudio = GetComponent<AudioSource>();
-        Invoke("playAudio", 2.0f);
+        Invoke("playAudio", 3.8f);
     }
 
     void playAudio()
     {
         myAudio.Play();
     }
-    
 }
-
-
