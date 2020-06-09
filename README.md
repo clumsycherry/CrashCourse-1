@@ -1,4 +1,7 @@
 # TechTogether Boston 2020: CrashCourse
+
+[Video Demo](crashcourse_videoPrototype.mp4)
+
 ## Inspiration
 We often forget how susceptible we are to the dangers that arise from technology as a result of our dependence on it. This has brought forth the major issue of the rise in incidences of texting and driving. In 2017, 3,166 people were killed in motor accidents involving distracted drivers in the United States alone. Even more alarming is that drivers between 15 to 19 years constitute only 6% of the total driver population as of 2016, yet over 13% of text and driving accidents involve drivers in this age group. Now more than ever, there is a need to address this issue by helping the general population understand that one brief moment of distraction is all it takes to get into a car crash. We are confident that the Crash Course VR experience will help in addressing this issue.
 
